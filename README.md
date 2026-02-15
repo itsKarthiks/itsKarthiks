@@ -2,7 +2,7 @@
 
 # Hi there, I'm Karthik! 👋
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=336699&center=true&vCenter=true&width=435&lines=CSE+Undergrad+%40+UCEK;Backend+Developer+(Node+%2B+Mongo);UI%2FUX+Designer;Aspiring+ISRO%2FDRDO+Scientist" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=336699&center=true&vCenter=true&width=435&lines=CSE+Undergrad+%40+UCEK;Backend+Developer+(Node+%2B+Mongo);UI%2FUX+Designer;Aspiring+ISRO%2FDRDO+Scientist" alt="Typing SVG" />
 
 <p align="center">
   <i>Converting caffeine into code and creative designs.</i>
@@ -35,8 +35,6 @@
 
 ### 🛠️ Tech Stack
 
-I categorize my skills to show depth rather than just a list.
-
 **💻 Languages & Core**
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -45,7 +43,7 @@ I categorize my skills to show depth rather than just a list.
   <img src="https://img.shields.io/badge/Assembly_(8086)-555555?style=for-the-badge&logo=intel&logoColor=white" />
 </p>
 
-**⚙️ Backend & Database (New!)**
+**⚙️ Backend & Database**
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
@@ -67,7 +65,7 @@ I categorize my skills to show depth rather than just a list.
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karthiks04&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=karthiks04&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthiks04&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 <br/>
