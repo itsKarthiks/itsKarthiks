@@ -1,6 +1,6 @@
 <div align="center">
 
-I'm Karthik S!
+# I'm Karthik! 
 
 **CSE Undergrad @ UCEK | Backend Developer | UI/UX Designer**
 
@@ -39,6 +39,7 @@ I'm Karthik S!
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Assembly_(8086)-555555?style=for-the-badge&logo=intel&logoColor=white" alt="Assembly" />
 </p>
@@ -61,22 +62,3 @@ I'm Karthik S!
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop" />
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
 </p>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/karthiks04">
-    <img src="https://github-readme-stats.vercel.app/api?username=karthiks04&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  </a>
-  <a href="https://github.com/karthiks04">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthiks04&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-  </a>
-</div>
-<br/>
-<div align="center">
-  <a href="https://github.com/karthiks04">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthiks04&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
-  </a>
-</div>
