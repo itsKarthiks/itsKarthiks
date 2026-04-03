@@ -28,7 +28,7 @@
 
 - 🎓 I'm a **Semester 6 B.Tech CSE** student at **University College of Engineering, Kariavattom**.
 - 🔭 Currently working as a **Backend Lead** on a full-stack college mini-project, **Certvify**.
-- 🎨 I have experience as a **Freelance UI Designer** (Revyne Studio) and love redesigning brand identities.
+- 🎨 I have experience as a **Freelance UI Designer** and love designing brand identities.
 - 🌱 Constantly learning and exploring new technologies to build scalable backend systems.
 
 ---
