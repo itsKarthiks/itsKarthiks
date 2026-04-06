@@ -4,7 +4,6 @@
 
 **CSE Undergrad @ UCEK | Backend Developer | UI/UX Designer**
 
-*Converting caffeine into code and creative designs.*
 
 <br />
 
