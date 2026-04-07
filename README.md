@@ -36,12 +36,3 @@
 
 **Frontend Basics** *(For Full-Stack Context)* ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsKarthiks&show_icons=true&theme=tokyonight&hide_border=true" alt="Karthik's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsKarthiks&theme=tokyonight&hide_border=true" alt="Karthik's GitHub Streak" width="48%" />
-</p>
