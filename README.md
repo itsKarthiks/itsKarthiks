@@ -1,6 +1,10 @@
 <p align="center">
   <img src="https://media1.tenor.com/m/C1r3YSmu4IQAAAAC/coding.gif" width="600"/>
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/itsKarthiks/itsKarthiks/main/name.gif" width="400"/>
+</p>
 <h1 align="center">Hi there, I'm Karthik S! 👋</h1>
 
 <h3 align="center">CS Engineering Undergrad | Aspiring Backend Infrastructure Engineer</h3>
