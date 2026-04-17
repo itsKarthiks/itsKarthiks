@@ -1,3 +1,29 @@
+<table>
+  <tr>
+    <!-- LEFT: Your GIF -->
+    <td>
+      <img src="https://raw.githubusercontent.com/itsKarthiks/itsKarthiks/main/pixelShader_17_04_2026_22_55_25.gif" width="300"/>
+    </td>
+
+    <!-- RIGHT: Your intro -->
+    <td>
+      <h1>Hi there, I'm Karthik S! 👋</h1>
+      <h3>CS Engineering Undergrad | Aspiring Backend Infrastructure Engineer</h3>
+
+      <p>
+        <a href="mailto:karthikofficialg@gmail.com">
+          <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+        </a>
+        <a href="YOUR_LINKEDIN_URL_HERE">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+
+
 <p align="center">
   <img src="https://media1.tenor.com/m/C1r3YSmu4IQAAAAC/coding.gif" width="600"/>
 </p>
