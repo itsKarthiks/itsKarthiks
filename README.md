@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/itsKarthiks/itsKarthiks/fe138ee7fba1c1c00f24d51d432d809a78bb27f5/pixelShader_17_04_2026_22_55_25.gif" width="400"/>
 </p>
-  <img src="https://raw.git
+  <img src="https://raw.git">
     
 <h1 align="center">Hi there, I'm Karthik S! 👋</h1>
 
