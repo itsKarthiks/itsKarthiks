@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"
+  <img src="https://tenor.com/8BHDUYHMt6.gif"
 </p>
 <h1 align="center">Hi there, I'm Karthik S! 👋</h1>
 
