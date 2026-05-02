@@ -13,7 +13,9 @@
 
 ### 👨‍💻 About Me
 
-* 🎓 **Semester 6 B.Tech CSE** student at University College of Engineering, Kariavattom (UCEK).
+* About Me
+
+* B.Tech Computer Science student (Semester 6) at University College of Engineering Kariavattom (UCEK).
 * ⚙️ Currently working as the **Backend Lead** on **Certvify**, a full-stack certificate verification and anti-forgery system.
 * 🚀 Diving deep into **Data Structures & Algorithms** using **Python** to build strong problem-solving fundamentals.
 * 💻 Expanding my backend infrastructure toolkit by exploring and building with **Go (Golang)**.
