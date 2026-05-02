@@ -13,13 +13,9 @@
 
 ### 👨‍💻 About Me
 
-- B.Tech Computer Science student (Semester 6) at University College of Engineering Kariavattom (UCEK).
-- Backend Lead for Certvify, a full-stack certificate verification and anti-forgery platform.
-- Focused on strengthening problem-solving skills through Data Structures and Algorithms in Python.
-- Exploring backend systems development and infrastructure engineering using Go (Golang).
-- Interested in scalable architectures, database optimization, distributed systems, and modern backend design patterns.
-- Preparing for the GATE examination with long-term goals in systems engineering and national research organizations such as  and .
-- Continuously learning and building projects to improve software engineering and backend development expertise.
+B.Tech Computer Science student (Semester 6) at University College of Engineering Kariavattom (UCEK).
+Backend Lead for Certvify, a full-stack certificate verification and anti-forgery platform.Focused on strengthening problem-solving skills through Data Structures and Algorithms in Python.
+Exploring backend systems development and infrastructure engineering using Go (Golang). Interested in scalable architectures, database optimization, distributed systems, and modern backend design patterns. Preparing for the GATE examination with long-term goals in systems engineering and national research organizations such as  and .Continuously learning and building projects to improve software engineering and backend development expertise.
 
 ---
 
