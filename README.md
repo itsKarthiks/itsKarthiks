@@ -18,8 +18,7 @@
 * 🚀 Diving deep into **Data Structures & Algorithms** using **Python** to build strong problem-solving fundamentals.
 * 💻 Expanding my backend infrastructure toolkit by exploring and building with **Go (Golang)**.
 * 🎯 Preparing for the **GATE** exam with aspirations to engineer robust systems for premier national tech organizations like **ISRO** or **DRDO**.
-* 🌱 Constantly learning about scalable architecture, database optimization, and modern backend design patterns.
-
+* 🌱 
 ---
 
 ### 🛠️ Tech Stack
