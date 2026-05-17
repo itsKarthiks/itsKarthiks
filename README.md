@@ -14,7 +14,7 @@
 ### 👨‍💻 About Me
 
 * 🎓 **Semester 6 B.Tech CSE** student at University College of Engineering, Kariavattom (UCEK).
-* ⚙️ Worked as the **Backend Lead** on **Certvify**, a full-stack certificate verification and anti-forgery system.
+* ⚙️ Worked as the **Backend & Project Lead** on **Certvify**, a full-stack certificate verification and anti-forgery system.
 * 🚀 Diving deep into **Data Structures & Algorithms** using **Python** to build strong problem-solving fundamentals.
 * 💻 Expanding my backend infrastructure toolkit by exploring and building with **Go (Golang)**.
 * 🎯 Preparing for the **GATE** exam with aspirations to engineer robust systems for premier national tech organizations like **ISRO** or **DRDO**.
