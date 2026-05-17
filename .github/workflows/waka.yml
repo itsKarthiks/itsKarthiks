@@ -20,4 +20,4 @@ jobs:
           SECTION_NAME: Hours Spent # optional
           ### commit
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
-          TARGET_BRANCH: main # optional
+          PUSH_BRANCH_NAME: main # optional
