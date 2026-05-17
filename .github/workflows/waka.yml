@@ -15,9 +15,3 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          ### content
-          SHOW_TITLE: true # optional
-          SECTION_NAME: Hours Spent # optional
-          ### commit
-          COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
-          PUSH_BRANCH_NAME: main # optional
