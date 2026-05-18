@@ -44,15 +44,15 @@
 
 ### Coding Stats:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%208%20mins-blue?style=flat)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
 Python                   1 hr 7 mins         █████████████████████████   100.00 % 
+
+🔥 Editors: 
+VS Code                  1 hr 7 mins         █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 18/05/2026 06:23:23 UTC
 <!--END_SECTION:waka-->
