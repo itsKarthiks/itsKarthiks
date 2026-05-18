@@ -43,4 +43,77 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%208%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 9.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 431 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 8 Public Repositories 
+ > 
+> 🔑 7 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                81 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.96 % 
+🌆 Daytime                133 commits         ███████░░░░░░░░░░░░░░░░░░   29.49 % 
+🌃 Evening                229 commits         █████████████░░░░░░░░░░░░   50.78 % 
+🌙 Night                  8 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   66 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
+Tuesday                  65 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
+Wednesday                45 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
+Thursday                 70 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
+Friday                   46 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
+Saturday                 85 commits          █████░░░░░░░░░░░░░░░░░░░░   18.85 % 
+Sunday                   74 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Python                   1 hr 7 mins         █████████████████████████   100.00 % 
+
+🔥 Editors: 
+VS Code                  1 hr 7 mins         █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+Python-Learn             48 mins             ██████████████████░░░░░░░   72.09 % 
+dsa-learn                12 mins             █████░░░░░░░░░░░░░░░░░░░░   18.45 % 
+FASTapi_Learn            6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
+
+💻 Operating System: 
+Windows                  1 hr 7 mins         █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               5 repos             ██████████████░░░░░░░░░░░   55.56 % 
+Python                   3 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
+CSS                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/itsKarthiks/itsKarthiks/main/assets/bar_graph.png)
+
+
+ Last Updated on 18/05/2026 06:10:31 UTC
 <!--END_SECTION:waka-->
