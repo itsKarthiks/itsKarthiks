@@ -44,7 +44,6 @@
 
 ### Coding Stats:
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
