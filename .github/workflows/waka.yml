@@ -18,6 +18,9 @@ jobs:
           # Keep languages enabled
           SHOW_LANGUAGE: "True"
           # Turn off everything else
+          SHOW_TITLE: false
+          TIME_RANGE: all_time
+          BLOCKS: '>-'
           SHOW_PROFILE_VIEWS: "False"
           SHOW_SHORT_INFO: "False"
           SHOW_COMMIT: "False"
