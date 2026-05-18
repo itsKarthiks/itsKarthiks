@@ -49,9 +49,6 @@
 ```text
 💬 Programming Languages: 
 Python                   1 hr 7 mins         █████████████████████████   100.00 % 
-
-🔥 Editors: 
-VS Code                  1 hr 7 mins         █████████████████████████   100.00 % 
 ```
 
 
