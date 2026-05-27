@@ -49,11 +49,7 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               42 mins             ███████████░░░░░░░░░░░░░░   44.82 % 
-Git Config               25 mins             ███████░░░░░░░░░░░░░░░░░░   27.10 % 
-Markdown                 12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
-JSON                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
-JavaScript               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+TypeScript               2 mins              █████████████████████████   100.00 % 
 ```
 
 
