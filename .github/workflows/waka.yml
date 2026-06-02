@@ -17,6 +17,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           # Keep languages enabled
           SHOW_LANGUAGE: "True"
+          TIME_RANGE: "all_time"
           # Turn off everything else
           SHOW_PROFILE_VIEWS: "False"
           SHOW_SHORT_INFO: "False"
