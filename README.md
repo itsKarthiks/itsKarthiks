@@ -45,12 +45,13 @@
 
 ### Coding Stats:
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
 
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
+```txt
+From: 25 May 2026 - To: 01 June 2026
+
+Total Time: 0 secs
+
+No activity tracked
 ```
-
 
 <!--END_SECTION:waka-->
