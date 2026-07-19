@@ -50,18 +50,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 April 2026 - To: 17 July 2026
+From: 17 April 2026 - To: 18 July 2026
 
-Total Time: 30 hrs 18 mins
+Total Time: 32 hrs 44 mins
 
-Python       20 hrs 3 mins         ████████████████▓░░░░░░░░   66.07 %
-C            3 hrs 34 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.76 %
-JavaScript   3 hrs 25 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.31 %
-TypeScript   50 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
-CSS          45 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
-Git Config   34 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
-Docker       16 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
-YAML         14 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+Python       22 hrs 28 mins        █████████████████░░░░░░░░   68.52 %
+C            3 hrs 34 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.89 %
+JavaScript   3 hrs 25 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.46 %
+TypeScript   50 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
+CSS          45 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
+Git Config   34 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
+Docker       16 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
+YAML         14 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
 ```
 
 <!--END_SECTION:waka-->
